@@ -1,5 +1,6 @@
 # embedded-air-quality-monitor-rust
 Rust-Based Design of an Air Quality Detection System for Single Chip Microcomputers
+
 基于 Rust 的嵌入式空气质量监测系统，适用于 STM32F103C8T6 微控制器。
 
 📚 [中文](#中文) | [English](#english)
@@ -133,4 +134,3 @@ Rust-Based Design of an Air Quality Detection System for Single Chip Microcomput
 ## License
 
 This project is open-source. See the [LICENSE](LICENSE) file for details.
-```
